@@ -1,2 +1,2 @@
 ### About
-Discontinued and organized Oretary script.
+Discontinued and unorganized Oretary script.
